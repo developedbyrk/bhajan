@@ -13,39 +13,39 @@ const playerContainer = document.getElementById("player-container");
 const playlist = [
   {
     title: "Racha Hai Srishti Ko Jis Prabhu Ne",
-    url: "JisSrishtikoPrabhuNeBanayaHai.mp3",
+    url: "./JisSrishtikoPrabhuNeBanayaHai.mp3",
   },
   {
     title: "Ram Nam Ke Hire Moti",
-    url: "RamNamKeHireMoti.mp3",
+    url: "./RamNamKeHireMoti.mp3",
   },
   {
     title: "Mujhe Tumne Malik Bahut Diya Hai",
-    url: "MujheTumneMalikBahutDeDiyahai.mp3",
+    url: "./MujheTumneMalikBahutDeDiyahai.mp3",
   },
   {
     title: "Karpur Gauram Karunavtaram",
-    url: "KarpurGauramKarunavtaram.mp3",
+    url: "./KarpurGauramKarunavtaram.mp3",
   },
   {
     title: "Bhole Girijapati Hu Tamhari Sharan",
-    url: "BholeGirijapatihuTamhariSharan.mp3",
+    url: "./BholeGirijapatihuTamhariSharan.mp3",
   },
   {
     title: "Hey Shiv Pita Parmatma",
-    url: "HeyShivPitaParmatma.mp3",
+    url: "./HeyShivPitaParmatma.mp3",
   },
   {
     title: "Ram Rachit Shambu Stuti",
-    url: "RamRachitShambuStuti.mp3",
+    url: "./RamRachitShambuStuti.mp3",
   },
   {
     title: "Satyam Shivam Sundaram",
-    url: "SatyamShivamSundaram.mp3",
+    url: "./SatyamShivamSundaram.mp3",
   },
   {
     title: "Shri Hanuman Chalisa",
-    url: "ShriHanumanChalisa.mp3",
+    url: "./ShriHanumanChalisa.mp3",
   },
 ];
 
