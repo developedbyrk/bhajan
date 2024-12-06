@@ -13,39 +13,39 @@ const playerContainer = document.getElementById("player-container");
 const playlist = [
   {
     title: "Racha Hai Srishti Ko Jis Prabhu Ne",
-    url: "https://raw.githubusercontent.com/developedbyrk/bhajan/main/Jis%20Srishti%20ko%20Prabhu%20Ne%20Banaya%20Hai.mp3",
+    url: "JisSrishtikoPrabhuNeBanayaHai.mp3",
   },
   {
     title: "Ram Nam Ke Hire Moti",
-    url: "https://raw.githubusercontent.com/developedbyrk/bhajan/main/Ram%20Nam%20Ke%20Hire%20Moti.mp3",
+    url: "RamNamKeHireMoti.mp3",
   },
   {
     title: "Mujhe Tumne Malik Bahut Diya Hai",
-    url: "https://raw.githubusercontent.com/developedbyrk/bhajan/main/Mujhe%20Tumne%20Malik%20Bahut%20De%20Diya%20hai.mp3",
+    url: "MujheTumneMalikBahutDeDiyahai.mp3",
   },
   {
     title: "Karpur Gauram Karunavtaram",
-    url: "https://raw.githubusercontent.com/developedbyrk/bhajan/main/Karpur%20Gauram%20Karunavtaram.mp3",
+    url: "KarpurGauramKarunavtaram.mp3",
   },
   {
     title: "Bhole Girijapati Hu Tamhari Sharan",
-    url: "https://raw.githubusercontent.com/developedbyrk/bhajan/main/Bhole%20Girijapati%20hu%20Tamhari%20Sharan.mp3",
+    url: "BholeGirijapatihuTamhariSharan.mp3",
   },
   {
     title: "Hey Shiv Pita Parmatma",
-    url: "https://raw.githubusercontent.com/developedbyrk/bhajan/main/Hey%20Shiv%20Pita%20Parmatma.mp3",
+    url: "HeyShivPitaParmatma.mp3",
   },
   {
     title: "Ram Rachit Shambu Stuti",
-    url: "https://raw.githubusercontent.com/developedbyrk/bhajan/main/Ram%20Rachit%20Shambu%20Stuti.mp3",
+    url: "RamRachitShambuStuti.mp3",
   },
   {
     title: "Satyam Shivam Sundaram",
-    url: "https://raw.githubusercontent.com/developedbyrk/bhajan/main/Satyam%20Shivam%20Sundaram.mp3",
+    url: "SatyamShivamSundaram.mp3",
   },
   {
     title: "Shri Hanuman Chalisa",
-    url: "https://raw.githubusercontent.com/developedbyrk/bhajan/main/Shri%20Hanuman%20Chalisa.mp3",
+    url: "ShriHanumanChalisa.mp3",
   },
 ];
 
